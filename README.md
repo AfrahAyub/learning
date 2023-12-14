@@ -35,5 +35,4 @@ Create a folder in the bucket named `panw-vmseries-gwlb` In that folder, upload 
 
 Use aws-jam-panw-gwlb-cfn-root.yaml to create the stack. There is only one parameter that will need to be modified, which is the name of the bucket. Modify the bucket to include the prefix used in your account
 
-
-##please go through the following tasks in order to run the use cases
+## please go through the following tasks in order to run the use cases
